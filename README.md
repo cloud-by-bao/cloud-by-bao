@@ -9,23 +9,23 @@
 <h2>📃Certifications</h2>
 
 - <a href="https://www.credly.com/badges/d816055c-0028-4f0c-b80a-fc7af893e91a/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/0c7312b4-1c7d-45e9-9cd9-7adbd2483ee9/image.png" width="100" alt="AWS Cloud Quest: Solutions Architect"/>
+  <img src="https://a.bao.codes/assets/aws-sa.png" width="50"/> AWS Cloud Quest: Solutions Architect
 </a>
 
 - <a href="https://www.credly.com/badges/d8081e89-fe08-4783-9e9c-101e220a0603/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63bd3d43/image.png" width="100" alt="Terraform Associate"/>
+  <img src="https://img.icons8.com/color/96/terraform.png" width="50"/> HashiCorp Certified: Terraform Associate (003)
 </a>
 
 - <a href="https://learn.microsoft.com/en-us/users/baoluong-7840/credentials/ac39dfe5892496e8?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" alt="Azure Fundamentals"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50"/> Microsoft Certified: Azure Fundamentals
 </a>
 
 - <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000599694/fbjp62z688" target="_blank">
-  <img src="https://www.lpi.org/sites/default/files/2020-04/LE-1000.png" width="100" alt="Linux Essentials"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/> Linux Essentials Certification (LPI)
 </a>
 
 - <a href="https://www.credly.com/badges/bf0419ed-bf43-474d-8a57-475e0f213e38/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/0b7d3d47-8d1e-4d0a-9b9b-3cbd9dfcc167/aws-cloud-practitioner.png" width="100" alt="AWS Cloud Practitioner"/>
+  <img src="https://a.bao.codes/assets/aws-ccp.png" width="50"/> AWS Certified Cloud Practitioner
 </a>
 
 <h2> 🤳 Connect with me:</h2>
