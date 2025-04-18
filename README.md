@@ -8,10 +8,9 @@
 
 <h2>📃Certifications</h2>
 
-- <a href="https://www.credly.com/badges/d816055c-0028-4f0c-b80a-fc7af893e91a/linked_in_profile" target="_blank">
-  <img src="https://a.bao.codes/assets/aws-sa.png" width="50"/> AWS Cloud Quest: Solutions Architect
-</a>
-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50"/> **Amazon Web Services (AWS)**
+  - [AWS Cloud Quest: Solutions Architect](https://www.credly.com/badges/d816055c-0028-4f0c-b80a-fc7af893e91a/linked_in_profile)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bf0419ed-bf43-474d-8a57-475e0f213e38/linked_in_profile)
 - <a href="https://www.credly.com/badges/d8081e89-fe08-4783-9e9c-101e220a0603/linked_in_profile" target="_blank">
   <img src="https://img.icons8.com/color/96/terraform.png" width="50"/> HashiCorp Certified: Terraform Associate (003)
 </a>
@@ -22,10 +21,6 @@
 
 - <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000599694/fbjp62z688" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/> Linux Essentials Certification (LPI)
-</a>
-
-- <a href="https://www.credly.com/badges/bf0419ed-bf43-474d-8a57-475e0f213e38/linked_in_profile" target="_blank">
-  <img src="https://a.bao.codes/assets/aws-ccp.png" width="50"/> AWS Certified Cloud Practitioner
 </a>
 
 <h2> 🤳 Connect with me:</h2>
