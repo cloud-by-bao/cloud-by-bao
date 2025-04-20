@@ -1,5 +1,5 @@
 <p align="center">
-<img src="bao-devops-banner.png" alt="Luong Bao - DevOps Engineer Banner" width="100%" />
+  <img src="bao-devops-banner.png" alt="Luong Bao - DevOps Engineer Banner" width="100%" />
 </p>
 
 <h1>Hi, I'm Bao
