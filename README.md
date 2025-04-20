@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_professional_digital_graphic_banner_displays_Luo.png" alt="Luong Bao - DevOps Engineer Banner" width="100%" />
+</p>
+
 <h1>Hi, I'm Bao
 
 <h2>👨‍💻 Cloud & DevOps Projects:</h2>
