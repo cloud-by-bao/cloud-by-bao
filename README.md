@@ -31,8 +31,11 @@ I thrive at the intersection of **development and operations**, helping teams bu
 
 <h2>👨‍💻 Cloud & DevOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [**AWS IAM Security Project**](https://github.com/cloud-by-bao/aws-iam-security-project) — Configured IAM roles, policies, and groups to enforce least privilege access and secure AWS environments.  
+- [**AWS QuickSight Netflix Dashboard**](https://github.com/cloud-by-bao/aws-quicksight-netflix-dashboard) — Built interactive analytics dashboards with Amazon QuickSight using Netflix dataset insights.  
+- [**Build a Virtual Private Cloud (VPC)**](https://github.com/cloud-by-bao/Build-a-Virtual-Private-Cloud) — Designed a fully functional AWS VPC with public/private subnets, NAT gateway, and custom routing.  
+- [**AWS Connect Web App with Aurora**](https://github.com/cloud-by-bao/aws-connect-webapp-aurora) — Deployed a scalable AWS web app connected to an Aurora database, emphasizing high availability.  
+- [**Bash Scripting Practice**](https://github.com/cloud-by-bao/bash-scripting-practice) — Created automation scripts to simplify repetitive DevOps tasks and improve system administration efficiency.
 
 
 <h2>📃Certifications</h2>
