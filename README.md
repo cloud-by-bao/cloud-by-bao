@@ -6,7 +6,7 @@
 
 <h2>👋 About Me</h2>
 
-I'm **Bao Luong**, a passionate **Cloud & DevOps Engineer** with a strong focus on automating cloud infrastructure and optimizing CI/CD pipelines.  
+I'm passionate **Cloud & DevOps Engineer** with a strong focus on automating cloud infrastructure and optimizing CI/CD pipelines.  
 I thrive at the intersection of **development and operations**, helping teams build scalable, secure, and reliable systems in the cloud.
 
 🌩️ **Core Expertise:**
