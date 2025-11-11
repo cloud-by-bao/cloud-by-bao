@@ -2,7 +2,32 @@
   <img src="bao-devops-banner.png" alt="Luong Bao - DevOps Engineer Banner" width="100%" />
 </p>
 
-<h1>Hi, I'm Bao
+<h1>Hi, I'm Bao</h1>
+
+<h2>👋 About Me</h2>
+
+I'm **Bao Luong**, a passionate **Cloud & DevOps Engineer** with a strong focus on automating cloud infrastructure and optimizing CI/CD pipelines.  
+I thrive at the intersection of **development and operations**, helping teams build scalable, secure, and reliable systems in the cloud.
+
+🌩️ **Core Expertise:**
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, Lambda, ECS, EKS), Azure, GCP  
+- **Infrastructure as Code:** Terraform · Ansible  
+- **CI/CD & Automation:** Jenkins · GitHub Actions · GitLab CI · SonarQube · Nexus · JFrog Artifactory  
+- **Containers & Orchestration:** Docker · Kubernetes  
+- **Monitoring & Observability:** Prometheus · Grafana  
+- **Scripting & Configuration:** Bash · Python · YAML  
+
+🎯 I’m currently working at **PCCW Global (Console Connect)**, managing AWS resources and supporting CI/CD pipelines for large-scale deployments. My goal is to continually improve automation and reliability across multi-cloud environments.
+
+💡 I’m also a lifelong learner—currently deepening my knowledge in **serverless architectures**, **cloud security**, and **infrastructure automation**.
+
+---
+
+<h3>⚡ Fun Facts:</h3>
+
+- 🧩 I love breaking down complex tech into simple analogies to make learning cloud easier for everyone.  
+- 🏋️‍♂️ Outside of tech, I’m big on fitness, personal growth, and helping others build confidence in their IT careers.  
+- 🚀 My GitHub showcases real-world projects that reflect both my technical skills and continuous learning journey.
 
 <h2>👨‍💻 Cloud & DevOps Projects:</h2>
 
