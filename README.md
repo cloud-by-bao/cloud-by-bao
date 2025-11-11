@@ -17,7 +17,7 @@ I thrive at the intersection of **development and operations**, helping teams bu
 - **Monitoring & Observability:** Prometheus · Grafana  
 - **Scripting & Configuration:** Bash · Python · YAML  
 
-🎯 I’m currently working at **PCCW Global (Console Connect)**, managing AWS resources and supporting CI/CD pipelines for large-scale deployments. My goal is to continually improve automation and reliability across multi-cloud environments.
+🎯 I’m currently working at **PCCW Global**, managing AWS resources and supporting CI/CD pipelines for large-scale deployments. My goal is to continually improve automation and reliability across multi-cloud environments.
 
 💡 I’m also a lifelong learner—currently deepening my knowledge in **serverless architectures**, **cloud security**, and **infrastructure automation**.
 
